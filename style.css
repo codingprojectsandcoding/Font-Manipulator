@@ -1,0 +1,26 @@
+.heading {
+border-radius: 30px;
+text-align: center;
+background-color: burlywood;
+line-height: 4;
+padding-top: 1px;
+box-shadow: 5px 5px 5px grey;
+color: black;
+top: 0;
+}
+#font_size_span {
+border-radius: 10px;
+text-align: center;
+box-shadow: 5px 5px 5px grey;
+color: black;
+}
+body {
+background-color: azure;
+}
+#footer {
+background-color: cadetblue;
+line-height: 3;
+bottom: 0;
+position: fixed;
+width: 100%;
+}
