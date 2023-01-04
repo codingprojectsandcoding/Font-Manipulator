@@ -1,26 +1,24 @@
 .heading {
-border-radius: 30px;
-text-align: center;
-background-color: burlywood;
-line-height: 4;
-padding-top: 1px;
-box-shadow: 5px 5px 5px grey;
-color: black;
-top: 0;
-}
-#font_size_span {
-border-radius: 10px;
-text-align: center;
-box-shadow: 5px 5px 5px grey;
-color: black;
-}
-body {
-background-color: azure;
-}
-#footer {
-background-color: cadetblue;
-line-height: 3;
-bottom: 0;
-position: fixed;
+font-size: 23px;
 width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px grey;
+}
+.note {
+font-size: 15px;
+color: black;
+}
+#copy_right_footer {
+position: fixed;
+color: black;
+bottom: 0;
+width:  100%;
+background-color: burlywood;
+line-height: 3;
+text-align: center;
+}
+canvas {
+border-radius: 20px;
+box-shadow: 5px 5px 5px gray;
+padding: 10px;
 }
